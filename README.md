@@ -10,6 +10,14 @@ https://github.com/loricode/laravel-backend-fasi.git
 este para el front:
 https://github.com/loricode/react-native-laravel.git
 
-de aquí descargué php PHP 8.1.6 (64-bit):
-https://www.filehorse.com/es/descargar-php-64/71428/descargar/
+Para instalar php siguiendo el siguiente tutorial:
+https://www.youtube.com/watch?v=3tnb9FuWfpU
+
+xamp se descarga para poder ejecutar php:
+https://www.apachefriends.org/es/download_success.html
+
+Para ejecutar un archivo .php que cree yo mismo:
+![Uploading image.png…]()
+
+
 
