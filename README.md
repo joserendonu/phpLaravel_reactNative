@@ -17,7 +17,10 @@ xamp se descarga para poder ejecutar php:
 https://www.apachefriends.org/es/download_success.html
 
 Para ejecutar un archivo .php que cree yo mismo:
+![image](https://github.com/user-attachments/assets/4ae17da2-52ed-4075-afb9-5558b87bbd77)
+
 ![Uploading image.png…]()
+
 
 
 
