@@ -35,6 +35,10 @@ en el minuto 1 se pausa y se hace lo siguiente:
                       principal del proyecto con npm run web, luego se editan los archivos para los 3 puntos del taller:
                       ![image](https://github.com/user-attachments/assets/02781b44-e928-4ff9-a3a6-845c8a40355f)
 
+PARA GESTIONAR LAS CREDENCIALES DE GITHUB
+![image](https://github.com/user-attachments/assets/51290b24-5bbd-4c17-9e23-60db521c53b1)
+
+
 
 
 
