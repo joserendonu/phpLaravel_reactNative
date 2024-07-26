@@ -38,6 +38,19 @@ en el minuto 1 se pausa y se hace lo siguiente:
 PARA GESTIONAR LAS CREDENCIALES DE GITHUB
 ![image](https://github.com/user-attachments/assets/51290b24-5bbd-4c17-9e23-60db521c53b1)
 
+ERRORES
+
+NO PUDE INSTALAR LARAVEL:
+https://www.youtube.com/watch?v=n8eMbzyw1iU
+POR ENDE NO PUDE SEGUIR ESE TUTO NI EL DEL PRINCIPIO(usaba npm asian...):
+https://www.youtube.com/watch?v=j5baJsM_Adc
+
+falta practicar pruebas unitarias
+
+
+
+
+
 
 
 
