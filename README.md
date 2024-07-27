@@ -46,15 +46,24 @@ https://www.youtube.com/watch?v=n8eMbzyw1iU
             requisitos previos: instalar composer https://getcomposer.org/download/
             SOLUCION A PROBLEMA DEL COMANDO composer create-project laravel/laravel example-app
             https://laracasts.com/discuss/channels/laravel/error-when-creating-new-project
+
+Arquitectura:
+FRONT
+![image](https://github.com/user-attachments/assets/3d1291b5-d7a4-49f5-b644-e26a21dcb29e)
+
             
-            
 
 
 
 
 
-POR ENDE NO PUDE SEGUIR ESE TUTO NI EL DEL PRINCIPIO(usaba npm asian...):
+ahpora a SEGUIR ESE TUTO NI EL DEL PRINCIPIO(usaba npm asian...):
 https://www.youtube.com/watch?v=j5baJsM_Adc
+                              me toca instalar laravel por lo que según el video toca seguir esta playlist
+                              https://www.youtube.com/watch?v=tQb05Q_9kiE&list=PLrAw40DbN0l34pUNNfzrT4cDOMkV47640
+                              PARA VER LA VERSION DE LARAVEL ES CON EL COMANDO EN CMD de windows: php artisan -v
+                              al parecer hay otra forma y es ingresando: composer global require laravel/installer
+                              y en este caso laravel queda directamente accesible(se puede ver con el comando 
 
 falta practicar pruebas unitarias
 
