@@ -42,6 +42,17 @@ ERRORES
 
 NO PUDE INSTALAR LARAVEL:
 https://www.youtube.com/watch?v=n8eMbzyw1iU
+
+            requisitos previos: instalar composer https://getcomposer.org/download/
+            SOLUCION A PROBLEMA DEL COMANDO composer create-project laravel/laravel example-app
+            https://laracasts.com/discuss/channels/laravel/error-when-creating-new-project
+            
+            
+
+
+
+
+
 POR ENDE NO PUDE SEGUIR ESE TUTO NI EL DEL PRINCIPIO(usaba npm asian...):
 https://www.youtube.com/watch?v=j5baJsM_Adc
 
