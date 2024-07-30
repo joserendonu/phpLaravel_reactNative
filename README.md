@@ -10,9 +10,12 @@ Voy a bajar este repopal back:
                       
                       este para el front:
                       https://github.com/loricode/react-native-laravel.git
-                      
-en el minuto 1 se pausa y se hace lo siguiente:
-                      Para instalar php siguiendo el siguiente tutorial:
+POR ESTE ERROR SE CAMBIA EL TUTORIAL:
+![image](https://github.com/user-attachments/assets/42b35542-1c77-4eb8-a282-897f29813802)
+![image](https://github.com/user-attachments/assets/be833aee-b8ea-4b59-957d-7fc9db8dd950)
+
+Se hace lo siguiente:
+                      Para instalar php siguiendo el siguiente tutorial: 
                       https://www.youtube.com/watch?v=3tnb9FuWfpU
                       
                       xamp se descarga para poder ejecutar php:
@@ -53,17 +56,27 @@ FRONT
 
             
 
-
-
-
-
-ahpora a SEGUIR ESE TUTO NI EL DEL PRINCIPIO(usaba npm asian...):
-https://www.youtube.com/watch?v=j5baJsM_Adc
-                              me toca instalar laravel por lo que según el video toca seguir esta playlist
+INSTALACIÓN LARAVEL, COMPOSER(QUE VA LIGADO CON ARTISAN)
                               https://www.youtube.com/watch?v=tQb05Q_9kiE&list=PLrAw40DbN0l34pUNNfzrT4cDOMkV47640
                               PARA VER LA VERSION DE LARAVEL ES CON EL COMANDO EN CMD de windows: php artisan -v
                               al parecer hay otra forma y es ingresando: composer global require laravel/installer
-                              y en este caso laravel queda directamente accesible(se puede ver con el comando 
+                              y en este caso laravel queda directamente accesible(se puede ver con el comando laravel -v)
+
+                              Al parecer laravel quedo en versión 5.x pero cuando es con el composer si queda la versión que debe ser de laravel.
+
+VIDEO GUÍA 2
+Creación de un servicio php laravel:
+https://www.youtube.com/watch?v=3ERq4KUsNEk
+voy a descargar el repo como zip para que no me lo tome como repo
+en ese repo la carpeta vendor tiene problemas y si le paso la del proyecto del video que fallo de primero saca el mismo error
+toca seguir mirando por ahí o sino un tutorial donde se explique esa carpeta
+
+
+
+
+
+
+                              
 
 falta practicar pruebas unitarias
 
