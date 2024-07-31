@@ -72,8 +72,11 @@ en ese repo la carpeta vendor tiene problemas y si le paso la del proyecto del v
 toca seguir mirando por ahí o sino un tutorial donde se explique esa carpeta
 
                                   PARA EL ERROR DE VENDOR:
-                                  https://www.youtube.com/watch?v=7V2XzGJcAvU
+                                  WARN  PHP Fatal error: Uncaught InvalidArgumentException: Please provide a valid cache path. in   
+                                  C:\xampp\htdocs\servicioRest\vendor\laravel\framework\src\Illuminate\View\Compilers\Compiler.php:66.
+                                  SOLUCIÓN PERO VOLVÍ AL MISMO ERROR DE LA PRIMERA GUÍA PRINCIPAL AQUÍ(https://www.youtube.com/watch?v=xiMNOAqjSr4)
 
+VIDEO GUIA 3: creemos un mvc con un modelo ...
 
 
 
