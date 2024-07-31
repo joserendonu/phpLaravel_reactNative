@@ -76,8 +76,10 @@ toca seguir mirando por ahí o sino un tutorial donde se explique esa carpeta
                                   C:\xampp\htdocs\servicioRest\vendor\laravel\framework\src\Illuminate\View\Compilers\Compiler.php:66.
                                   SOLUCIÓN PERO VOLVÍ AL MISMO ERROR DE LA PRIMERA GUÍA PRINCIPAL AQUÍ(https://www.youtube.com/watch?v=xiMNOAqjSr4)
 
-VIDEO GUIA 3: creemos un mvc con un modelo ...
+GUIÁNDOME POR LA DOCUMENTACIÓN:
+![image](https://github.com/user-attachments/assets/f6be4450-e6bb-4da3-8274-9a0ba004b701)
 
+donde está el enrutamiento a la vista principal, creo otra ruta que acceda a el modelo o a un usuario
 
 
 
