@@ -71,6 +71,8 @@ voy a descargar el repo como zip para que no me lo tome como repo
 en ese repo la carpeta vendor tiene problemas y si le paso la del proyecto del video que fallo de primero saca el mismo error
 toca seguir mirando por ahí o sino un tutorial donde se explique esa carpeta
 
+                                  PARA EL ERROR DE VENDOR:
+                                  https://www.youtube.com/watch?v=7V2XzGJcAvU
 
 
 
