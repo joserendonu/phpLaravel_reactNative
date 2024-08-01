@@ -88,21 +88,4 @@ donde está el enrutamiento a la vista principal, creo otra ruta que acceda a el
 
 
 
-                          
-falta practicar pruebas unitarias
-NOTAS IMPORTANTES:
-CAPAS en lavaravel composer:
-VISTA:
-      Carpeta routes
-              views(usando html con css en el mismo archivo)
-              PARA SEGUIR MIRANDO LAS CAPAS: 
-
-
-
-
-
-
-
-
-
 
