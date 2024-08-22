@@ -84,7 +84,7 @@ Para que el href me dirija a una vista en específico se puso lo siguiente:
 ![image](https://github.com/user-attachments/assets/f11ecd6a-a9fc-4072-b324-7e1b44f52f2b)
 Sería bueno consultar como agregar algo a la dirección en la que se está parado ...
 
-
+php artisan serve PARA EJECUTAR
 
 
 
